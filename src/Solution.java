@@ -15,8 +15,7 @@ class Solution {
 
         System.err.println("N = " + N);
         System.err.println("N = " + Q);
-
-
+        
         HashMap<String, String> mimeMap = new HashMap<String, String>();
 
         for (int i = 0; i < N; i++) {
